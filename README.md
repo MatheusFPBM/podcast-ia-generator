@@ -25,4 +25,4 @@ O projeto serve como portfólio para mostrar habilidades em IA aplicada à cria�
 ## 💡 Como Usar
 1. Clone este repositório:  
 ```bash
-git clone <>
+git clone <https://github.com/MatheusFPBM/podcast-ia-generator/blob/main/README.md>
